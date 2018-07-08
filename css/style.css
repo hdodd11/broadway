@@ -4,4 +4,9 @@
 
 body {
   text-align: center;
+  font-family: Helvetica;
+}
+
+p {
+  font-size: 14px;
 }
